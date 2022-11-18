@@ -1,0 +1,27 @@
+.row{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pass-card{
+  width: 100%;
+  max-width: 30.33%;
+  margin: 15px;
+}
+
+.p-3{
+  padding: 15px;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+mat-toolbar{
+  display: flex;
+  background: #e7e7e7;
+}
+
+.simple-filter-input{
+  width: 100% !important;
+}
